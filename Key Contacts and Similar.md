@@ -19,12 +19,10 @@ DSN: 312.552.9857
 Cell: 315.276.6124
 
 
-
 # CW5 John M. O'Rielly
 ARCYBER CCWO (as of August 14, 2018)
 
 # CW5 PAUL SANKEY
-
 
 # CW3 Lopez
 recommended books:
@@ -66,7 +64,6 @@ Tailored Strategic Retention program (TSR)
 
 # CW2 Burns
 
-
 # WO Distro and Links
 WO Distro:
 usarmy.gordon.cyber-coe.list.cyber-school-occ-warrant-div@army.mil
@@ -80,13 +77,7 @@ https://www.milsuite.mil/book/community/spaces/army-cyber-net/cyber-regiment/war
 
 # CW4 Laurimar Sammons
 
-
-
-
 # CW4 Kevin Jones
-
-
-
 
 # CW2 Tiffany Northern
 email: n.northern.mil@army.mil
