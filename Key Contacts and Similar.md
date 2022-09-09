@@ -81,3 +81,14 @@ https://www.milsuite.mil/book/community/spaces/army-cyber-net/cyber-regiment/war
 
 # CW2 Tiffany Northern
 email: n.northern.mil@army.mil
+
+# CPT Ware, Corey
+Recommended Books:
+1. Likeware (IO)
+2. Dark Territory (CYBER)
+3. This is how they tell me the world ends
+PATHWAY TO SUCCESS:
+1. OVERDUE BOOKS
+2. "THE BIGGER PICTURE"
+3.  WHAT IF?
+
