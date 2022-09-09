@@ -5,8 +5,8 @@ This is a WOBC repo to provide a permanent location of info and links for 170A W
 
 
 ## Current Contents:
-.md files uploaded from a collection of joplin notes
-individual files provided to the WOBC class over the timeline of the course
+- .md files uploaded from a collection of joplin notes
+- Individual files provided to the WOBC class over the timeline of the course
 
 ### Link to the google drive location: https://drive.google.com/drive/folders/18fBH2jLica2mZ4aVr0j3vnIsKgj1vytE?usp=sharing
 #### NOTE: This is a restricted shared location. If you need access please email me
