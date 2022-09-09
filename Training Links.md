@@ -36,6 +36,13 @@ https://github.com/Battelle/
 https://inside.battelle.org/blog-details/battelle-publishes-open-source-binary-visualization-tool 
 
 
+## MWRlibrary.army.biznet.com
+http://mwrlibrary.armybiznet.com/screens/newaccount.html
+
+## Zlibrary
+usa1lib.org 
+
+
 
 #
 # PYTHON
