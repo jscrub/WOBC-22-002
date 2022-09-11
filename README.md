@@ -17,6 +17,11 @@ This is a WOBC repo to provide a permanent location of info and links for 170A W
 
 
 
+## Signal Groups (if they are still up)
+Study Group:
+
+https://signal.group/#CjQKIMccuIZbvNelARtkfTdaDrDRNxiHo2XPcP08ezzeK9MMEhACCPkHRrN9QTC-AkA_SeRC
+
 
 # TIMEFRAME
 - 01SEPT2022 - Planning and collection
