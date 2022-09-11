@@ -101,6 +101,14 @@ HRC foreign awards process
 https://www.hrc.army.mil/content/Foreign%20Award%20Info 
 
 
+# VA and Disability Related:
+Airborne Hazards and Open Burn Pit Registry
+https://veteran.mobilehealth.va.gov/AHBurnPitRegistry/#page/home
+https://burnpits360.org/
+https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/02/fact-sheet-president-biden-issues-executive-order-at-the-first-meeting-of-the-task-force-on-reproductive-healthcare-access/
+
+
+
 # TO BE ADDED: 
 - Teams channels and links
 - Distros
