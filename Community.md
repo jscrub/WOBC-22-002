@@ -15,8 +15,8 @@ https://sideline.bsnsports.com/schools/georgia/fortgordon/army-cyber-protection-
 https://www.etsy.com/listing/784757018/warrant-officer-eagle-rising-buckles?click_key=75f967ca222fc0d46f43e334dfa3951c284994e4%3A784757018&click_sum=bd3f0923&ref=shop_home_feat_1&frs=1&bes=1
 
 ## Etsy Links:
-### Cutstom Challenge Rack Coins
-https://www.etsy.com/listing/858032950/us-army-warrant-officer-challenge-coin?gbraid=0AAAAADtcfRLjLoYlUUy5NPbUmpX9OqFDN&gpla=1&gao=1&&utm_source=google&utm_medium=cpc&utm_campaign=shopping_us_ps-a-home_and_living-home_decor-wall_decor-wall_hangings-other&utm_custom1=_k_Cj0KCQjwg_iTBhDrARIsAD3Ib5jGvBtvHn01fLOByvCc0lo3u-5JtLGKEFyazvcLoFSLZopA6Yrc0fMaAkciEALw_wcB_k_&utm_content=go_12567673668_122422058831_507253237357_pla-305562556206_m__858032950_142470544&utm_custom2=12567673668&gbraid=0AAAAADtcfRLjLoYlUUy5NPbUmpX9OqFDN&gclid=Cj0KCQjwg_iTBhDrARIsAD3Ib5jGvBtvHn01fLOByvCc0lo3u-5JtLGKEFyazvcLoFSLZopA6Yrc0fMaAkciEALw_wcB
+[Custom Challenge Rack Coins](
+https://www.etsy.com/listing/858032950/us-army-warrant-officer-challenge-coin?gbraid=0AAAAADtcfRLjLoYlUUy5NPbUmpX9OqFDN&gpla=1&gao=1&&utm_source=google&utm_medium=cpc&utm_campaign=shopping_us_ps-a-home_and_living-home_decor-wall_decor-wall_hangings-other&utm_custom1=_k_Cj0KCQjwg_iTBhDrARIsAD3Ib5jGvBtvHn01fLOByvCc0lo3u-5JtLGKEFyazvcLoFSLZopA6Yrc0fMaAkciEALw_wcB_k_&utm_content=go_12567673668_122422058831_507253237357_pla-305562556206_m__858032950_142470544&utm_custom2=12567673668&gbraid=0AAAAADtcfRLjLoYlUUy5NPbUmpX9OqFDN&gclid=Cj0KCQjwg_iTBhDrARIsAD3Ib5jGvBtvHn01fLOByvCc0lo3u-5JtLGKEFyazvcLoFSLZopA6Yrc0fMaAkciEALw_wcB)
 
 ## Spruce and Twince Co
 https://www.spruceandtwineco.com/collections/shop-us/hunter-brigade
