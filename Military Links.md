@@ -99,3 +99,8 @@ https://www.lms.army.mil/learnerview/search-page/signal%20cyber%20risk
 # HRC
 HRC foreign awards process
 https://www.hrc.army.mil/content/Foreign%20Award%20Info 
+
+
+#TO BE ADDED: 
+- Teams channels and links
+- Distros
