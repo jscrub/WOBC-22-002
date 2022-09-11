@@ -1,5 +1,12 @@
+# Augusta/Fort Gordon Specific
+
 ## BSides
 https://bsidesaugusta.org/
+
+## Places to Go
+That Flippin Egg
+
+#
 
 ## Hunters Apparel
 https://sideline.bsnsports.com/schools/georgia/fortgordon/army-cyber-protection-brigade
