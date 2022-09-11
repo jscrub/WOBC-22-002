@@ -3,6 +3,8 @@ This is a WOBC repo to provide a permanent location of info and links for 170A W
 
 ## THIS IS A WORK IN PROGRESS. If you have suggestions, please email me at jason.c.scribner@gmail.com
 
+## NOTE: FOUO INFORMATION CANNOT BE UPLOADED TO GITHUB FOR PUBLIC ACCESS!!!! Please refer to DoD Directives 5400.7-R and 5200.1-R. This is not my choice! However I will provide references in obtaining FOUO information from WOBC as we are "authorized" to have it. I just can't publicly host it.
+
 
 ## Current Contents:
 - .md files uploaded from a collection of joplin notes
