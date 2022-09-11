@@ -112,3 +112,11 @@ https://automatetheboringstuff.com/
 [Military channel, not limited to US Military](https://www.reddit.com/r/military)
 
 [Raspberry Pi Projects](https://www.reddit.com/r/raspi)
+
+
+# Recommended News Sites
+www.techradar.com
+https://www.redhat.com/en/about/newsroom
+https://www.darkreading.com/
+
+
