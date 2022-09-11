@@ -101,6 +101,6 @@ HRC foreign awards process
 https://www.hrc.army.mil/content/Foreign%20Award%20Info 
 
 
-#TO BE ADDED: 
+# TO BE ADDED: 
 - Teams channels and links
 - Distros
