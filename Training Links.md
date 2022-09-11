@@ -42,7 +42,8 @@ http://mwrlibrary.armybiznet.com/screens/newaccount.html
 ## Zlibrary
 usa1lib.org 
 
-
+## Subnet Cheat Sheet
+https://www.aelius.com/njh/subnet_sheet.html
 
 #
 # PYTHON
