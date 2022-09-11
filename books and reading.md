@@ -90,3 +90,25 @@ https://automatetheboringstuff.com/
 [Reverse Engineering](https://www.reddit.com/r/ReverseEngineering/)
 
 [Army subreddit](reddit.com/r/Army)
+
+[Network Security](https://www.reddit.com/r/netsec)
+
+[Cybersecurity](https://www.reddit.com/r/cybersecurity)
+
+[Ask NetSec](https://www.reddit.com/r/asknetsec)
+
+[Network Security Students](https://www.reddit.com/r/netsecstudents)
+
+[System Admins](https://www.reddit.com/r/sysadmin)
+
+[Data management](https://www.reddit.com/r/datahoarder)
+
+[Home Security Solutions](https://www.reddit.com/r/homesecurity)
+
+[Alternate Home Security](https://www.reddit.com/r/homedefense)
+
+[Blue Team](https://www.reddit.com/r/securityblueteam)
+
+[Military channel, not limited to US Military](https://www.reddit.com/r/military)
+
+[Raspberry Pi Projects](https://www.reddit.com/r/raspi)
