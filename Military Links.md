@@ -58,14 +58,32 @@ https://git.cybbh.space/programming/python/public/-/blob/master/documents/Studen
 * GIAC Certified Penetration Tester (GPEN)
 
 ### Contact: Blake Neal
-Business Development Manager - DoD
-SANS Institute
-Work: (970) 431 - 6210
-Cell: (540) 910 - 2209
-Denver Office MST
-Website: www.sans.org
-https://text.sans.org/t/102585/c/237c2013-5c18-4269-87f5-46e5cf9f2b49/NB2HI4DTHIXS63LFMV2GS3THOMXHGYLMMVZWY33GOQXGG33NF5ZWC3TTNFXHG2LEMVZWC3DFOMXWE3DBNNSW4ZLBNQ7W2ZLFORUW4Z27MRSXIYLJNQ6TMYRSGM2DGNZTFUYWINBWFU2DSYZWFU4TQZRUFU4WIOBUHBQWGMLEGYYTK===/meetings-salesloft-com-sansinsidesales-blakeneal
+-Business Development Manager - DoD
+-SANS Institute
+-Work: (970) 431 - 6210
+-Cell: (540) 910 - 2209
+-Denver Office MST
+-Website: www.sans.org
+-https://text.sans.org/t/102585/c/237c2013-5c18-4269-87f5-46e5cf9f2b49/NB2HI4DTHIXS63LFMV2GS3THOMXHGYLMMVZWY33GOQXGG33NF5ZWC3TTNFXHG2LEMVZWC3DFOMXWE3DBNNSW4ZLBNQ7W2ZLFORUW4Z27MRSXIYLJNQ6TMYRSGM2DGNZTFUYWINBWFU2DSYZWFU4TQZRUFU4WIOBUHBQWGMLEGYYTK===/meetings-salesloft-com-sansinsidesales-blakeneal
 
+## Instructions:
+You must register for a SANS On Demand Course that is in the approved list (see attached). You must also use your .mil address to register. NOTE: If you have a SANS civilian account, it is advised to merge it into your mil account (SANS can do this for you) for the duration of your military career and/or using Army Ignited.
+
+Once registered, you must generate an Invoice from SANS. Download the Invoice. Send the Invoice to 
+-Deb Taylor
+-Administrative Support Manager, Federal Sales
+-443.398.8300
+-DTaylor@sans.org < Caution-mailto:DTaylor@sans.org >
+
+She will reduce the cost to exactly $4,000 dollars. This Invoice will be used to upload to Army Ignited.
+
+Army Ignited site: https://www.armyignited.com/app/student/homepage
+
+In Army Ignited, you will requesting Credentialing Assistance and search for the course (NOT THE CERT) and register. During registration, there will be a need to upload that adjusted Invoice. NOTE: Your course needs to be scheduled 30 days out. Army Ignited takes its time to approve.
+
+Once approved, SANS will email you once payment is completed to have your On Demand Course start.
+
+NOTE: You will have to pay for the Cert attempt and practice test OUT OF POCKET or by other means. Army Ignited does not cover those costs. If you register for a bundle request within 30 days (aka buy the cert attempt with the practice tests), it will be a reduced cost of $949 instead of the standard $1149. The unit may or may not pay this.
 
 # ApparelNow site (for CTB)
 https://apparelnow.com/hq-a-co-ctb-apparel/mens/polos
