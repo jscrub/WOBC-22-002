@@ -58,22 +58,22 @@ https://git.cybbh.space/programming/python/public/-/blob/master/documents/Studen
 * GIAC Certified Penetration Tester (GPEN)
 
 ### Contact: Blake Neal
--Business Development Manager - DoD
--SANS Institute
--Work: (970) 431 - 6210
--Cell: (540) 910 - 2209
--Denver Office MST
--Website: www.sans.org
--https://text.sans.org/t/102585/c/237c2013-5c18-4269-87f5-46e5cf9f2b49/NB2HI4DTHIXS63LFMV2GS3THOMXHGYLMMVZWY33GOQXGG33NF5ZWC3TTNFXHG2LEMVZWC3DFOMXWE3DBNNSW4ZLBNQ7W2ZLFORUW4Z27MRSXIYLJNQ6TMYRSGM2DGNZTFUYWINBWFU2DSYZWFU4TQZRUFU4WIOBUHBQWGMLEGYYTK===/meetings-salesloft-com-sansinsidesales-blakeneal
+- Business Development Manager - DoD
+- SANS Institute
+- Work: (970) 431 - 6210
+- Cell: (540) 910 - 2209
+- Denver Office MST
+- Website: www.sans.org
+- https://text.sans.org/t/102585/c/237c2013-5c18-4269-87f5-46e5cf9f2b49/NB2HI4DTHIXS63LFMV2GS3THOMXHGYLMMVZWY33GOQXGG33NF5ZWC3TTNFXHG2LEMVZWC3DFOMXWE3DBNNSW4ZLBNQ7W2ZLFORUW4Z27MRSXIYLJNQ6TMYRSGM2DGNZTFUYWINBWFU2DSYZWFU4TQZRUFU4WIOBUHBQWGMLEGYYTK===/meetings-salesloft-com-sansinsidesales-blakeneal
 
 ## Instructions:
 You must register for a SANS On Demand Course that is in the approved list (see attached). You must also use your .mil address to register. NOTE: If you have a SANS civilian account, it is advised to merge it into your mil account (SANS can do this for you) for the duration of your military career and/or using Army Ignited.
 
 Once registered, you must generate an Invoice from SANS. Download the Invoice. Send the Invoice to 
--Deb Taylor
--Administrative Support Manager, Federal Sales
--443.398.8300
--DTaylor@sans.org < Caution-mailto:DTaylor@sans.org >
+- Deb Taylor
+- Administrative Support Manager, Federal Sales
+- 443.398.8300
+- DTaylor@sans.org < Caution-mailto:DTaylor@sans.org >
 
 She will reduce the cost to exactly $4,000 dollars. This Invoice will be used to upload to Army Ignited.
 
